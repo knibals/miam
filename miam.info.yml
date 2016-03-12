@@ -1,0 +1,12 @@
+name: Miame
+description: Appetissant...
+core: 8.x
+type: theme
+base theme: stable
+
+regions:
+  content: 'Content'
+  header: 'Header'
+  footer: 'Footer'
+  help: 'Help'
+  highlighted: 'Highlighted'
