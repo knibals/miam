@@ -10,3 +10,8 @@ regions:
   footer: 'Footer'
   help: 'Help'
   highlighted: 'Highlighted'
+
+libraries:
+  - miam/global-miam
+libraries-override:
+  system/base: false

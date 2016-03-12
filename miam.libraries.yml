@@ -1,0 +1,4 @@
+global-miam:
+  css:
+    theme:
+      miam.css: {}
