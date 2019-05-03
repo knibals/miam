@@ -1,4 +1,4 @@
 global-miam:
   css:
     theme:
-      miam.css: {}
+      miam.css: {'css/core.css'}
